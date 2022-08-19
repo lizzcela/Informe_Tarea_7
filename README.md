@@ -158,21 +158,41 @@ SECCIÓN 13–5 Inductores en circuitos de ca
 
 ![image](https://user-images.githubusercontent.com/105623628/185672784-3768a051-ead2-45c8-b5c7-654a9a12a474.png)
 
+![image](https://user-images.githubusercontent.com/105623628/185674260-7cab4c64-3522-42b3-9c5a-0fc6a22179ee.png)
+
+![image](https://user-images.githubusercontent.com/105623628/185674323-e2469d3f-bda3-481f-a8f0-716950bb31e6.png)
+
+![image](https://user-images.githubusercontent.com/105623628/185674355-2b508980-bb56-4597-8e05-0449ec5a178b.png)
+
 32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
 
 ![image](https://user-images.githubusercontent.com/105623628/185672886-a5c81dc2-1f64-4ea4-aaed-c05e5858d180.png)
+
+![image](https://user-images.githubusercontent.com/105623628/185674391-6d612e3f-04bd-4b8e-9f39-7346615960cd.png)
 
 34. En la figura 13-51, determine la potencia reactiva.
 
 ![image](https://user-images.githubusercontent.com/105623628/185673396-5f1667d1-30b2-4a4a-beb4-54a76a6e93ab.png)
 
+![image](https://user-images.githubusercontent.com/105623628/185674431-b2e5ace1-a8ef-4f18-8117-89ea68b82cd4.png)
 
+![image](https://user-images.githubusercontent.com/105623628/185675160-4fec5e5a-26e7-4e0a-bf41-b7b0f5129202.png)
 
+4. RESOLUCIÓN DE PROBLEMAS CAPÍTULO 12
 
+5. VIDEO
 
+https://youtu.be/sbdPtIzIV5M
 
+6. CONCLUSIONES
 
+- Los inductores principalmente se dividen en inductores variables y fijos, no obstante, esta clasificación se considera ambigua, por lo que ahora si clasifican según su núcleo, entre los más utilizados se encuentran los inductores con núcleos de aire, hierro y ferrita.
+-Para calcular la inductancia total en serie o LT, se debe sumar las inductancias individuales. Mientras tanto para calcular la inductancia total en paralelo o LT, se establece una fórmula donde el recíproco de la inductancia total es igual a la suma de los recíprocos de las inductancias individuales.
+- Entre las principales características de un transformador no están ideales; resistencia de devanado: en este caso la resistencia resulta en menos voltaje a través de una carga secundaria. Pérdidas en el núcleo: las pérdidas se dan en las conversiones de energía en el material del núcleo de un transformador práctico. Capacitancia de devanado: esto hace referencia a la existencia de la capacitancia parasitaria presente entre las vueltas adyacentes de un devanado. Por último, dispersión de flujo magnético: algunas líneas del flujo magnético se escapan del núcleo y pasan a través del aire de regreso al otro extremo del devanado.
 
+7. BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de circuitos electricos. Monterrey: Pearson.
 
 
 
